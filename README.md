@@ -1,12 +1,12 @@
-# Redux Toolkit Ornegi
+# Redux Toolkit Example
 
-## `Kurulum`
+## `Setup`
 
 ```
-npm install veya yarn
+npm install or yarn
 ```
 
-## `Kullanilan Kutuphaneler`
+## `The libraries used in the project are:`
 
 - `@reduxjs/toolkit`
 - `react-redux`
